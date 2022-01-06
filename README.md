@@ -1,1 +1,2 @@
-# speed-test
+# Typing Speed Application Using Vanila JavaScript
+
